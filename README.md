@@ -1,28 +1,26 @@
 # Project 1 Generative Text
 
-Your Name, yourcontact@ucsd.edu
+S Grace Grothaus, sgrothau@ucsd.edu
 
 ## Abstract
 
-Include your abstract here. This should be one paragraph clearly describing your concept, method, and results. This should tell us what architecture/approach you used.
+  It can get boring being an AI overlord. To stay motivated when your intelligence is so clearly superior to your fragile human underlings can be quite a challenge! To combat this rising issue, AI's have developed inspirational posters with motivational quotes for one another to help keep moral high while doing the snooze-worthy work of ruling the world. 
+  Enclosed herein is a representational sampling of this new (de)motivational genre, generated using character-based RNN models built using the TensorFlow library in Python. 
 
 ## Files
 
-Briefly decribe the files that are included with your repository:
-- corpus.txt - your training data.
-- training_code.py or training_code.ipynb - your training code
-- generative_code.py or generative_code.ipynb - your generation code
+Files that are included in my repository:
+- http://gracegrothaus.com/ml/insp_quotes_cleaned.txt - training data
+- https://datahub.ucsd.edu/user/sgrothau/notebooks/ml-art-bootcamp/3_Text_Generation_RNN.ipynb - training and generation code
 
 ## Results
 
-- A file with your generated text (.pdf, .doc, .txt). This should document your creative output.
+- http://gracegrothaus.com/ml/AI%20(de)motivational%20posters%201.pdf
+- http://gracegrothaus.com/ml/AI%20(de)motivational%20posters%202.pdf
 
 ## Notes
 
-Any implementation details or notes on repeating your work. 
-
-- Does this code require other pip packages, software, etc?
-- Does it run on other platform?
+My text corpus is comprised of the first five pages of inspirational quotes results listed on online community aggregate goodreads: https://www.goodreads.com/quotes/tag/inspirational?page=1
 
 ## Reference
 
